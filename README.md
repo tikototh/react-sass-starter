@@ -26,5 +26,3 @@ $ npm start
 ```
 
 Listens at **http://localhost:8080**
-
-... I'm a master... master tikototh!
